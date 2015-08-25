@@ -1,0 +1,9 @@
+*.h
+*.tlog
+*.obj
+stdafx.cpp
+*.pdb
+*.log
+*.filters
+*.vcxproj
+*.idb
