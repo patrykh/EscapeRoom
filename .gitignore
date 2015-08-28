@@ -7,3 +7,4 @@ stdafx.cpp
 *.filters
 *.vcxproj
 *.idb
+Source.cpp
